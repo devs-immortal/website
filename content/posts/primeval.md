@@ -1,6 +1,6 @@
 ---
 title: "Primeval"
-date: 2022-08-17T17:35:07+02:00
+date: 2022-08-17T16:52:48-06:00
 weight: 2
 summary: "A mod aiming for a complete overhaul of Minecraft’s usual gameplay systems to create a rustic, “realistic” game progression. Several vanilla systems are completely changed, whereas others are relatively similar."
 ---
@@ -26,3 +26,11 @@ I am part of the larger group Immortal Devs, responsible for Paradise Lost, but 
 I'm looking for new ideas and interesting concepts to bring interesting interactions to the mod. If you would like to contribute, check out the source on GitHub and follow the instructions there for writing a suggestion for the mod.
 
 Also consider joining the Immortal Devs' Discord channel (linked on the left) and talking about the mod there if you are interested in following the development or discussing with me or other players!
+
+Found on Modrinth, Curseforge and Github!
+
+https://modrinth.com/mod/primeval
+
+https://www.curseforge.com/minecraft/mc-mods/id-primeval
+
+https://github.com/devs-immortal/Primeval
