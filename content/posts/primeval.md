@@ -1,7 +1,8 @@
 ---
 title: "Primeval"
-date: 2022-08-17T16:52:48-06:00
+date: 2022-08-17T16:24:14+00:00
 weight: 2
+author: 24Chrome
 summary: "A mod aiming for a complete overhaul of Minecraft’s usual gameplay systems to create a rustic, “realistic” game progression. Several vanilla systems are completely changed, whereas others are relatively similar."
 ---
 
@@ -27,10 +28,4 @@ I'm looking for new ideas and interesting concepts to bring interesting interact
 
 Also consider joining the Immortal Devs' Discord channel (linked on the left) and talking about the mod there if you are interested in following the development or discussing with me or other players!
 
-Found on Modrinth, Curseforge and Github!
-
-https://modrinth.com/mod/primeval
-
-https://www.curseforge.com/minecraft/mc-mods/id-primeval
-
-https://github.com/devs-immortal/Primeval
+Found on [Modrinth](https://modrinth.com/mod/primeval), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/id-primeval) and [Github](https://github.com/devs-immortal/Primeval)!
