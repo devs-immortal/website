@@ -8,6 +8,8 @@ summary: "A mod aiming for a complete overhaul of Minecraft’s usual gameplay s
 
 **Primeval is in very early development, and thus is in a barely playable state. I am looking for ideas and potential contributors to the project, so see the "How can I contribute..." paragraph below!**
 
+![Campfire on the beach in the evening](/images/15999121-beach_xl.webp "Screenshot from Primeval")
+
 ### What is Primeval?
 
 Primeval, a mod for the Minecraft Fabric Modloader, is an interpretation of mods akin to TerraFirmaCraft, aiming for a complete overhaul of Minecraft's usual gameplay systems to create a rustic, "realistic" game progression. Several vanilla systems are completely changed, whereas others are relatively similar. If you enjoy Minecraft and enjoy a little bit of grinding and/or historical technology, you may be interested Primeval.
