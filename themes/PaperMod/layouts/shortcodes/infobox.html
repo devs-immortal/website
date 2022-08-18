@@ -1,0 +1,77 @@
+<style>
+    .infobox {
+        float:right
+    }
+
+    .infobox table {
+        border: 1px solid var(--border);
+        font-size: 14px;
+    }
+
+    .infobox td, .infobox th {
+        line-height: 1 !important;
+    }
+
+    .infobox tbody img {
+        margin: 1rem auto;
+    }
+
+    @media (max-width: 768px) {
+        .infobox {
+            float: unset;
+        }
+
+        .infobox table {
+            display: table;
+        }
+    }
+</style>
+
+<div class="infobox">
+    <table>
+        <thead>
+        <tr>
+            <th colspan="2" style="text-align:center">{{ if isset .Params "name" }}{{ index .Params "name" }}{{ end }}</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{ if isset .Params "image" }}
+        <tr>
+            <td colspan="2">
+                <img src="/{{ index .Params "image" }}"/>
+            </td>
+        </tr>
+        {{ end }}
+        {{ if isset .Params "renewable" }}
+        <tr>
+            <td>
+                Renewable
+            </td>
+            <td>
+                {{ index .Params "renewable" }}
+            </td>
+        </tr>
+        {{ end }}
+        {{ if isset .Params "stackable" }}
+        <tr>
+            <td>
+                Stackable
+            </td>
+            <td>
+                {{ index .Params "stackable" }}
+            </td>
+        </tr>
+        {{ end }}
+        {{ if isset .Params "tool" }}
+        <tr>
+            <td>
+                Tool
+            </td>
+            <td>
+                {{ index .Params "tool" }}
+            </td>
+        </tr>
+        {{ end }}
+        </tbody>
+    </table>
+</div>

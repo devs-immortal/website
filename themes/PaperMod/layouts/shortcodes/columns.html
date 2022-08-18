@@ -1,0 +1,29 @@
+{{- $size := default "regular" (.Get "size" | lower) }}
+
+{{- if not (in (slice "regular" "large" "small") $size) }}
+{{- $size = "regular" }}
+{{- end }}
+
+<style>
+    .columns {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .column {
+        flex:1;
+    }
+
+    @media (max-width: 768px) {
+        .columns {
+            display: block;
+        }
+    }
+</style>
+<div class="columns">
+    {{ range split .Inner "<--->" }}
+    <div class="column">
+        {{ . | $.Page.RenderString }}
+    </div>
+    {{ end }}
+</div>
