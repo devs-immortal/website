@@ -21,6 +21,12 @@ Clay is most commonly found underwater in [swamps](), [beaches](), [oceans](), a
 
 ### Crafting
 
-{{< crafting type="normal" result="Clay" y1="Clay" y2="Oak Log" z1="Clay" z2="Clay">}}
-{{< crafting type="shapeless" >}}
-{{< crafting type="fixed" >}}
+{{< crafting type="normal" result="Clay" >}}
+Clay,Clay,Clay
+Clay,Clay,Clay
+Clay,Clay,Clay
+{{</ crafting >}}
+
+### Smelting
+
+{{< smelting result="Clay" ingredient="Clay Ball" >}}

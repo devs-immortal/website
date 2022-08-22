@@ -1,8 +1,13 @@
 <span class="inv crafting-table pixel-image">
     <span class="inv-input">
-        <span class="inv-row"><span class="invslot">{{ if isset .Params "x1" }}<span class="invslot-item" title="{{ index .Params " x1" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params " x1")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "x2" }}<span class="invslot-item" title="{{ index .Params " x2" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params " x2")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "x3" }}<span class="invslot-item" title="{{ index .Params " x3" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params " x3")) " " "_" }}.png')"></span></span>{{ end }}</span></span>
-        <span class="inv-row"><span class="invslot">{{ if isset .Params "y1" }}<span class="invslot-item" title="{{ index .Params "y1" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "y1")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "y2" }}<span class="invslot-item" title="{{ index .Params "y2" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "y2")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "y3" }}<span class="invslot-item" title="{{ index .Params "y3" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "y3")) " " "_" }}.png')"></span></span>{{ end }}</span></span>
-        <span class="inv-row"><span class="invslot">{{ if isset .Params "z1" }}<span class="invslot-item" title="{{ index .Params "z1" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "z1")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "z2" }}<span class="invslot-item" title="{{ index .Params "z2" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "z2")) " " "_" }}.png')"></span></span>{{ end }}</span><span class="invslot">{{ if isset .Params "z3" }}<span class="invslot-item" title="{{ index .Params "z3" }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{ replace (lower (index .Params "z3")) " " "_" }}.png')"></span></span>{{ end }}</span></span>
+        {{ range split .Inner "\n" }}
+            {{ $values := split . "," }}
+            {{ if eq 3 (len $values) }}
+                <span class="inv-row">{{ range $values }}{{ $name := trim (trim . "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}<span class="invslot">
+                    <span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{$img}}.png')"></span></span>
+                </span>{{ end }}</span>
+            {{ end }}
+        {{ end }}
     </span>
     <span class="inv-arrow"><br></span>
     <span class="inv-output"><span class="invslot invslot-large">
