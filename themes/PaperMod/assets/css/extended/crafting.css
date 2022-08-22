@@ -1,0 +1,380 @@
+@-webkit-keyframes fire {
+    0% {
+        height: 0;
+        top: 36px;
+        background-position-y: -36px
+    }
+    90%, to {
+        height: 36px;
+        top: 0;
+        background-position-y: 0
+    }
+}
+
+@-webkit-keyframes furnace {
+    0% {
+        width: 0
+    }
+    90%, to {
+        width: 100%
+    }
+}
+
+.inv {
+    display: inline-block;
+    position: relative;
+    background-color: #c6c6c6;
+    border: 2px solid;
+    border-color: #dbdbdb #5b5b5b #5b5b5b #dbdbdb;
+    padding: 6px;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: bottom;
+    image-rendering: pixelated
+}
+
+.dark .inv {
+    background-color: #535353;
+    border-color: #6b6b6b #262626 #262626 #6b6b6b
+}
+
+.crafting-table > *, .furnace > * {
+    display: inline-block;
+    vertical-align: top
+}
+
+.brewing-stand > *, .crafting-table .inv-row {
+    display: block
+}
+
+.crafting-table > .inv-arrow {
+    background: url(/images/inv/arrow_small.png) no-repeat;
+    width: 32px;
+    height: 26px;
+    margin: 40px 4px 0
+}
+
+.crafting-table > .inv-output {
+    margin-top: 28px
+}
+
+.crafting-table > .inv-icons {
+    position: absolute;
+    top: 6px;
+    right: 6px
+}
+
+.crafting-table .inv-fixed, .crafting-table .inv-shapeless {
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 19px;
+    height: 15px;
+    cursor: help
+}
+
+.crafting-table .inv-shapeless {
+    background-image: url(/images/inv/shapeless.png)
+}
+
+.crafting-table .inv-fixed {
+    background-image: url(/images/inv/fixed.png)
+}
+
+.furnace .inv-fuel {
+    display: block;
+    background: url(/images/inv/fire_inactive.png) no-repeat;
+    position: relative;
+    width: 36px;
+    height: 36px
+}
+
+.furnace .inv-fuel.inv-active {
+    background-image: url(/images/inv/fire.png);
+    -webkit-animation: fire 2s steps(18) infinite;
+    -moz-animation: fire 2s steps(18) infinite;
+    -ms-animation: fire 2s steps(18) infinite;
+    animation: fire 2s steps(18) infinite
+}
+
+.furnace .inv-arrow {
+    background: url(/images/inv/furnace_progress_inactive.png) no-repeat;
+    width: 44px;
+    height: 32px;
+    margin: 36px 18px 0 14px
+}
+
+.furnace .inv-arrow.inv-active {
+    display: inline-block;
+    background-image: url(/images/inv/furnace_progress.png);
+    width: 0;
+    margin: 0;
+    -webkit-animation: furnace 10s steps(22) infinite;
+    -moz-animation: furnace 10s steps(22) infinite;
+    -ms-animation: furnace 10s steps(22) infinite;
+    animation: furnace 10s steps(22) infinite;
+    animation-delay: 1s
+}
+
+.furnace > .inv-output {
+    margin-top: 28px
+}
+
+.brewing-stand .invslot {
+    vertical-align: top
+}
+
+.brewing-stand > .inv-input {
+    text-align: center
+}
+
+.brewing-stand > .inv-input > .invslot {
+    margin-top: 3px
+}
+
+.brewing-stand .inv-arrow, .brewing-stand .inv-bubbling {
+    display: inline-block;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 57px
+}
+
+.brewing-stand .inv-bubbling {
+    background-image: url(/images/inv/brewing_bubbles.gif)
+}
+
+.brewing-stand > .inv-input.inv-inactive > .inv-bubbling {
+    background-image: url(/images/inv/brewing_bubbles_inactive.png)
+}
+
+.brewing-stand .inv-arrow {
+    background-image: url(/images/inv/brewing_arrow.png)
+}
+
+.brewing-stand > .inv-input.inv-inactive > .inv-arrow {
+    background-image: url(/images/inv/brewing_arrow_inactive.png)
+}
+
+.brewing-stand > .inv-paths {
+    position: relative;
+    background: url(/images/inv/brewing_paths.png) no-repeat;
+    width: 60px;
+    height: 40px;
+    margin: -20px auto -16px;
+    z-index: 1
+}
+
+.brewing-stand .inv-output .invslot {
+    background-image: url(/images/inv/brewing_empty.png)
+}
+
+.brewing-stand .inv-output2 {
+    margin: 14px 10px 0
+}
+
+.inv-Hotbar {
+    display: inline-block;
+    position: relative;
+    border: 0;
+    padding: 0;
+    background-color: transparent
+}
+
+.inv-Hotbar > .inv-selector {
+    position: absolute;
+    top: -2px;
+    margin-left: -2px
+}
+
+.inv-Hotbar > .inv-slots {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 2px
+}
+
+.inv-Hotbar .invslot {
+    margin: 4px
+}
+
+.inv-Grindstone > *, .invslot, .loom > *, .stonecutter > * {
+    display: inline-block;
+    vertical-align: top
+}
+
+.invslot {
+    position: relative;
+    background: #8b8b8b no-repeat center center/32px 32px;
+    border: 2px solid;
+    border-color: #373737 #fff #fff #373737;
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    line-height: 1;
+    text-align: left;
+    vertical-align: bottom;
+    box-sizing: content-box
+}
+
+.loom > .inv-tapestry {
+    background: url(/images/inv/loom.png) no-repeat;
+    width: 98px;
+    height: 108px
+}
+
+.loom > .inv-loomArrow {
+    background: url(/images/inv/loom_arrow.png) no-repeat;
+    width: 54px;
+    height: 54px;
+    margin: 28px 4px 0
+}
+
+.loom > .inv-output {
+    margin-top: 38px
+}
+
+.loom .inv-inputBanner {
+    margin: 22px 10px;
+    position: absolute
+}
+
+.loom .inv-inputDye {
+    margin: 22px 50px;
+    position: absolute
+}
+
+.loom .inv-inputPattern {
+    margin: 60px 30px;
+    position: absolute
+}
+
+.loom .inv-bannerSprite {
+    margin-left: 4px
+}
+
+.inv-Grindstone > .inv-grindstone {
+    background: url(/images/inv/grindstone.png) no-repeat;
+    width: 108px;
+    height: 112px
+}
+
+.inv-Grindstone .inv-input1 {
+    margin: 6px 36px;
+    position: absolute
+}
+
+.inv-Grindstone .inv-input2 {
+    margin: 48px 36px;
+    position: absolute
+}
+
+.inv-Grindstone > .inv-arrow {
+    background: url(/images/inv/furnace_progress_inactive.png) no-repeat;
+    width: 44px;
+    height: 34px;
+    margin: 36px 22px 0
+}
+
+.inv-Grindstone > .inv-output {
+    margin-top: 34px
+}
+
+.stonecutter > .inv-stonecutterArrow {
+    background: url(/images/inv/stonecutter_arrow.png) no-repeat;
+    width: 58px;
+    height: 60px;
+    margin: 9px 4px 0
+}
+
+.stonecutter > .inv-output {
+    margin: 28px 0
+}
+
+.stonecutter > .inv-input {
+    margin-top: 36px
+}
+
+.stonecutter .inv-stonecutterSprite {
+    margin: 4px 0 0 5px
+}
+
+.dark .invslot {
+    background: #333 no-repeat center center/32px 32px;
+    border-color: #262626 #6b6b6b #6b6b6b #262626
+}
+
+.invslot::after, .invslot::before {
+    content: "";
+    position: absolute;
+    background-color: #8b8b8b;
+    height: 2px;
+    width: 2px;
+    pointer-events: none
+}
+
+.dark .invslot::after, .dark .invslot::before {
+    background-color: #333
+}
+
+.invslot::before {
+    bottom: -2px;
+    left: -2px
+}
+
+.invslot::after {
+    top: -2px;
+    right: -2px
+}
+
+.invslot-large {
+    padding: 8px
+}
+
+.invslot-item, .invslot-item > a:first-child {
+    position: relative;
+    display: block;
+    margin: -2px;
+    padding: 2px;
+    width: 32px;
+    height: 32px
+}
+
+.invslot-item-image > a.new:first-child {
+    width: 32px;
+    height: 32px;
+    text-indent: -9999px;
+    overflow: hidden
+}
+
+.invslot-stacksize {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-family: Minecraft, sans-serif !important;
+    font-weight: 400 !important;
+    color: #fff !important;
+    text-shadow: 2px 2px 0 #3f3f3f;
+    filter: dropshadow(color=#3F3F3F, offx=2, offy=2);
+    z-index: 2
+}
+
+.invslot-plain {
+    background-color: transparent;
+    border: 0
+}
+
+.invslot-plain::after, .invslot-plain::before {
+    content: none
+}
+
+.invslot-plain > .invslot-item, .invslot-plain > .invslot-item > a:first-child {
+    margin: 0;
+    padding: 0
+}
+
+.inv-sprite, .slot-sprite {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    background-size: contain;
+    display: block
+}
