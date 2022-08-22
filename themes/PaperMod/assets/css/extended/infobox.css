@@ -1,0 +1,26 @@
+.infobox {
+    float: right
+}
+
+.infobox table {
+    border: 1px solid var(--border);
+    font-size: 14px;
+}
+
+.infobox td, .infobox th {
+    line-height: 1 !important;
+}
+
+.infobox tbody img {
+    margin: 1rem auto;
+}
+
+@media (max-width: 768px) {
+    .infobox {
+        float: unset;
+    }
+
+    .infobox table {
+        display: table;
+    }
+}

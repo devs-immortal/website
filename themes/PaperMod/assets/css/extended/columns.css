@@ -1,0 +1,14 @@
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex:1;
+}
+
+@media (max-width: 768px) {
+    .columns {
+        display: block;
+    }
+}
