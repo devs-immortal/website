@@ -29,4 +29,5 @@ Clay,Clay,Clay
 
 ### Smelting
 
-{{< smelting result="Clay" ingredient="Clay Ball" >}}
+{{< smelting result="Brick" ingredient="Clay Ball" type="furnace">}}
+{{< smelting result="Brick" ingredient="Clay Ball" type="blast">}}

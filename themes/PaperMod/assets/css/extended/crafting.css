@@ -96,6 +96,32 @@
     animation: fire 2s steps(18) infinite
 }
 
+.furnace .fuel-animated {
+    background-image: url(/images/coal.png);
+    -webkit-animation: fuel 10s steps(1) infinite;
+    -moz-animation: fuel 10s steps(1) infinite;
+    -ms-animation: fuel 10s steps(1) infinite;
+    animation: fuel 10s steps(1) infinite
+}
+
+@-webkit-keyframes fuel {
+    0% {
+        background-image: url(/images/coal.png);
+    }
+    20% {
+        background-image: url(/images/charcoal.png);
+    }
+    40% {
+        background-image: url(/images/oak_log.png);
+    }
+    60% {
+        background-image: url(/images/oak_planks.png);
+    }
+    80% {
+        background-image: url(/images/coal_block.png);
+    }
+}
+
 .furnace .inv-arrow {
     background: url(/images/inv/furnace_progress_inactive.png) no-repeat;
     width: 44px;

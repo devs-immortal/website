@@ -1,0 +1,19 @@
+<span class="inv furnace pixel-image">
+    <span class="inv-input">
+        {{ $ingredient := replace (lower .Params.ingredient) " " "_" }}
+        <span class="invslot"><span class="invslot-item" title="{{ index .Params "ingredient" }}"><span class="sprite inv-sprite" style="background-image:url(/images/{{$ingredient}}.png)"></span></span></span>
+        <span class="inv-fuel">
+            <span class="inv-fuel inv-active"><br></span>
+        </span>
+        <span class="invslot"><span class="invslot-item"><span class="sprite inv-sprite fuel-animated"></span></span></span>
+    </span>
+    <span class="inv-arrow">
+        {{ if eq .Params.type "furnace" }}
+            <span class="inv-arrow inv-active {{.Params.type}}"><br></span>
+        {{ else }}
+            <span class="inv-arrow inv-active {{.Params.type}}" style="animation-duration: 5s;"><br></span>
+        {{end}}
+    </span>
+    {{ $result := replace (lower .Params.result) " " "_" }}
+    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/{{$result}}.png)"></span></span></span></span>
+</span>
