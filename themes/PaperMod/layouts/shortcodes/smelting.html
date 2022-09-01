@@ -1,7 +1,12 @@
 <span class="inv furnace pixel-image">
     <span class="inv-input">
-        {{ $ingredient := replace (lower .Params.ingredient) " " "_" }}
-        <span class="invslot"><span class="invslot-item" title="{{ index .Params "ingredient" }}"><span class="sprite inv-sprite" style="background-image:url(/images/{{$ingredient}}.png)"></span></span></span>
+        {{ $parts := (split .Params.ingredient ":") }}
+        {{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+        <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{$img}}.png)"></span></span></span>
+        {{else}}
+        {{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+        <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{$img}}.png)"></span></span></span>
+        {{end}}
         <span class="inv-fuel">
             <span class="inv-fuel inv-active"><br></span>
         </span>
@@ -14,6 +19,11 @@
             <span class="inv-arrow inv-active {{.Params.type}}" style="animation-duration: 5s;"><br></span>
         {{end}}
     </span>
-    {{ $result := replace (lower .Params.result) " " "_" }}
-    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/{{$result}}.png)"></span></span></span></span>
+    {{ $parts := (split .Params.result ":") }}
+    {{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{$img}}.png)"></span></span></span></span>
+    {{ else }}
+    {{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{$img}}.png)"></span></span></span></span>
+    {{ end }}
 </span>

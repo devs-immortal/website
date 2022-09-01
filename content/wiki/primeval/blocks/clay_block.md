@@ -3,7 +3,7 @@ title: "Clay Block"
 date: 2022-08-17T15:34:58+00:00
 ---
 
-{{< infobox name="Clay" image="clay.png" renewable="Yes" stackable="Yes (64)" tool="Shovel" >}}
+{{< infobox name="Clay" image="minecraft/clay_ball.png" renewable="Yes" stackable="Yes (64)" tool="Shovel" >}}
 
 **Clay** is a block that can be found abundantly in [lush caves](), less commonly in shallow surface water or created from mud using [pointed dripstone]().
 It can be smelted into [terracotta]() or broken into [clay balls]() which are smeltable into [bricks]().
@@ -21,10 +21,10 @@ Clay is most commonly found underwater in [swamps](), [beaches](), [oceans](), a
 
 ### Crafting
 
-{{< crafting type="normal" result="Clay" >}}
-Clay,Clay,Clay
-Clay,Clay,Clay
-Clay,Clay,Clay
+{{< crafting type="normal" result="p:Birch Crate" >}}
+p:Birch Slab,p:Birch Slab,p:Birch Slab
+p:Birch Planks,,p:Birch Planks
+p:Birch Planks,p:Birch Planks,p:Birch Planks
 {{</ crafting >}}
 
 ### Smelting

@@ -3,18 +3,26 @@
         {{ range split .Inner "\n" }}
             {{ $values := split . "," }}
             {{ if eq 3 (len $values) }}
-                <span class="inv-row">{{ range $values }}{{ $name := trim (trim . "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}<span class="invslot">
-                    <span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url('/images/{{$img}}.png')"></span></span>
-                </span>{{ end }}</span>
+                <span class="inv-row">{{ range $values }}{{ $parts := (split . ":") }}{{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}<span class="invslot">
+                    <span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url('/images/items/{{$namespace}}/{{$img}}.png')"></span></span>
+                </span>{{else}}{{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}<span class="invslot">
+                    <span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url('/images/items/minecraft/{{$img}}.png')"></span></span>
+                </span>{{ end }}{{ end }}</span>
             {{ end }}
         {{ end }}
     </span>
     <span class="inv-arrow"><br></span>
     <span class="inv-output"><span class="invslot invslot-large">
         {{ if isset .Params "result" }}
-            <span class="invslot-item" title="{{ index .Params "result" }}">
-                <span class="sprite inv-sprite" style="background-image:url('/images/{{ lower (index .Params "result") }}.png')"></span>
+            {{ $parts := (split .Params.result ":") }}{{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+            <span class="invslot-item" title="{{ $name }}">
+                <span class="sprite inv-sprite" style="background-image:url('/images/items/{{ $namespace }}/{{ $img }}.png')"></span>
             </span>
+            {{ else }}{{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
+            <span class="invslot-item" title="{{ $name }}">
+                <span class="sprite inv-sprite" style="background-image:url('/images/items/minecraft/{{ $img }}.png')"></span>
+            </span>
+            {{ end }}
         {{ end }}
     </span></span>
     {{ if isset .Params "type" }}

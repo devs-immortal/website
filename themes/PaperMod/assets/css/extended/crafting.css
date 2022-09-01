@@ -97,7 +97,7 @@
 }
 
 .furnace .fuel-animated {
-    background-image: url(/images/coal.png);
+    background-image: url(/images/items/minecraft/coal.png);
     -webkit-animation: fuel 10s steps(1) infinite;
     -moz-animation: fuel 10s steps(1) infinite;
     -ms-animation: fuel 10s steps(1) infinite;
@@ -106,19 +106,19 @@
 
 @-webkit-keyframes fuel {
     0% {
-        background-image: url(/images/coal.png);
+        background-image: url(/images/items/minecraft/coal.png);
     }
     20% {
-        background-image: url(/images/charcoal.png);
+        background-image: url(/images/items/minecraft/charcoal.png);
     }
     40% {
-        background-image: url(/images/oak_log.png);
+        background-image: url(/images/items/minecraft/oak_log.png);
     }
     60% {
-        background-image: url(/images/oak_planks.png);
+        background-image: url(/images/items/minecraft/oak_planks.png);
     }
     80% {
-        background-image: url(/images/coal_block.png);
+        background-image: url(/images/items/minecraft/coal_block.png);
     }
 }
 
