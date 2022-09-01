@@ -13,6 +13,9 @@
 
 .infobox tbody img {
     margin: 1rem auto;
+    width: 128px;
+    height: 128px;
+    image-rendering: pixelated;
 }
 
 @media (max-width: 768px) {
