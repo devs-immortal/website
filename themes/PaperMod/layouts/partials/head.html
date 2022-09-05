@@ -8,11 +8,13 @@
 
 {{- /* Meta */}}
 {{- if .IsHome }}
-{{ with site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
+<meta name="keywords" content="{{ delimit site.Params.keywords ", " }}, {{ delimit site.Params.tags ", " }}">
 {{- else }}
-<meta name="keywords" content="{{ if .Params.keywords -}}
-    {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
-    {{- range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- end -}}">
+<meta name="keywords" content="{{ delimit site.Params.keywords ", " }}, {{ if .Params.keywords -}}
+        {{- delimit .Params.keywords ", " -}}
+    {{- else if .Params.tags -}}
+        {{- delimit .Params.tags ", " -}}
+    {{- end -}}">
 {{- end }}
 <meta name="description" content="{{- with .Description }}{{ . }}{{- else }}{{- if or .IsPage .IsSection}}
     {{- .Summary | default (printf "%s - %s" .Title  site.Title) }}{{- else }}
