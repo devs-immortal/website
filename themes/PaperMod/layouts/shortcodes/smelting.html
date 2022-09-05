@@ -1,29 +1,37 @@
 <span class="inv furnace pixel-image">
     <span class="inv-input">
-        {{ $parts := (split .Params.ingredient ":") }}
-        {{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
-        <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{$img}}.png)"></span></span></span>
-        {{else}}
-        {{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
-        <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{$img}}.png)"></span></span></span>
-        {{end}}
+        {{- $parts := (split .Params.ingredient ":") -}}
+        {{- if eq 2 (len $parts) -}}
+            {{- $namespace := index $parts 0 -}}
+            {{- $name := trim (trim (index $parts 1) "\n") "\r" -}}
+            {{- $img := replace (lower $name) " " "_" -}}
+            <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{ $img }}.png)"></span></span></span>
+        {{- else -}}
+            {{- $name := trim (trim (index $parts 0) "\n") "\r" -}}
+            {{- $img := replace (lower $name) " " "_" -}}
+            <span class="invslot"><span class="invslot-item" title="{{ $name }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{ $img }}.png)"></span></span></span>
+        {{- end -}}
         <span class="inv-fuel">
             <span class="inv-fuel inv-active"><br></span>
         </span>
         <span class="invslot"><span class="invslot-item"><span class="sprite inv-sprite fuel-animated"></span></span></span>
     </span>
     <span class="inv-arrow">
-        {{ if eq .Params.type "furnace" }}
-            <span class="inv-arrow inv-active {{.Params.type}}"><br></span>
-        {{ else }}
-            <span class="inv-arrow inv-active {{.Params.type}}" style="animation-duration: 5s;"><br></span>
-        {{end}}
+        {{- if eq .Params.type "furnace" -}}
+            <span class="inv-arrow inv-active {{ .Params.type }}"><br></span>
+        {{- else -}}
+            <span class="inv-arrow inv-active {{ .Params.type }}" style="animation-duration:5s;"><br></span>
+        {{- end -}}
     </span>
-    {{ $parts := (split .Params.result ":") }}
-    {{ if eq 2 (len $parts) }}{{ $namespace := index $parts 0 }}{{ $name := trim (trim (index $parts 1) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
-    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{$img}}.png)"></span></span></span></span>
-    {{ else }}
-    {{ $name := trim (trim (index $parts 0) "\n") "\r" }}{{ $img := replace (lower $name) " " "_" }}
-    <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{.Params.result}}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{$img}}.png)"></span></span></span></span>
-    {{ end }}
+    {{- $parts := (split .Params.result ":") -}}
+    {{- if eq 2 (len $parts) -}}
+        {{- $namespace := index $parts 0 -}}
+        {{- $name := trim (trim (index $parts 1) "\n") "\r" -}}
+        {{- $img := replace (lower $name) " " "_" -}}
+        <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{ .Params.result }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/{{ $img }}.png)"></span></span></span></span>
+    {{- else -}}
+        {{- $name := trim (trim (index $parts 0) "\n") "\r" -}}
+        {{- $img := replace (lower $name) " " "_" -}}
+        <span class="inv-output"><span class="invslot invslot-large"><span class="invslot-item" title="{{ .Params.result }}"><span class="sprite inv-sprite" style="background-image:url(/images/items/minecraft/{{ $img }}.png)"></span></span></span></span>
+    {{- end -}}
 </span>

@@ -2,47 +2,51 @@
     <table>
         <thead>
         <tr>
-            <th colspan="2" style="text-align:center">{{ if isset .Params "name" }}{{ index .Params "name" }}{{ end }}</th>
+            <th colspan="2" style="text-align:center">
+                {{- if isset .Params "name" -}}
+                    {{- index .Params "name" -}}
+                {{- end -}}
+            </th>
         </tr>
         </thead>
         <tbody>
-        {{ if isset .Params "image" }}
-        <tr>
-            <td colspan="2">
-                <img src="/images/items/{{ index .Params "image" }}"/>
-            </td>
-        </tr>
-        {{ end }}
-        {{ if isset .Params "renewable" }}
-        <tr>
-            <td>
-                Renewable
-            </td>
-            <td>
-                {{ index .Params "renewable" }}
-            </td>
-        </tr>
-        {{ end }}
-        {{ if isset .Params "stackable" }}
-        <tr>
-            <td>
-                Stackable
-            </td>
-            <td>
-                {{ index .Params "stackable" }}
-            </td>
-        </tr>
-        {{ end }}
-        {{ if isset .Params "tool" }}
-        <tr>
-            <td>
-                Tool
-            </td>
-            <td>
-                {{ index .Params "tool" }}
-            </td>
-        </tr>
-        {{ end }}
+        {{- if isset .Params "image" -}}
+            <tr>
+                <td colspan="2">
+                    <img src="/images/items/{{ index .Params "image" }}"/>
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "renewable" -}}
+            <tr>
+                <td>
+                    Renewable
+                </td>
+                <td>
+                    {{- index .Params "renewable" -}}
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "stackable" -}}
+            <tr>
+                <td>
+                    Stackable
+                </td>
+                <td>
+                    {{- index .Params "stackable" -}}
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "tool" -}}
+            <tr>
+                <td>
+                    Tool
+                </td>
+                <td>
+                    {{- index .Params "tool" -}}
+                </td>
+            </tr>
+        {{- end -}}
         </tbody>
     </table>
 </div>
