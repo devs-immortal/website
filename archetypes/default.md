@@ -1,6 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+summary: ""
+author: ""
 date: {{ .Date }}
-draft: true
+lastmod: {{ .Date }}
+keywords: [ {{ .Name }} ]
 ---
 
