@@ -1,7 +1,31 @@
 ---
 title: "Primeval Wiki"
-date: 2022-08-17T15:34:58+00:00
+date: 2022-08-18T18:44:00+00:00
+author: 24Chrome
 ---
+
+Hello!
+
+I'll be adding more to this wiki as more features are added, but hopefully every page on here will be able to answer any questions you have about how to do something, or what you should do next if you're stuck.
+
+I would **HIGHLY** encourage using Roughly Enough Items (REI) or another recipe guide mod, as many of the recipes in this mod are not related to vanilla recipes.
+
+**Check out [Getting Started](/wiki/primeval/guides/getting_started) for information on what to do!**
+
+#### NOTE: THIS MOD IS IN AN EARLY ALPHA STATE, AND MANY FEATURES NEED TO BE ADDED. DO NOT EXPECT A COMPLETE MOD!
+
+
+## Guides
+
+{{< columns >}}
+
+- [Getting Started](/wiki/primeval/guides/getting_started)
+- [Creating a Campfire](/wiki/primeval/guides/creating_a_campfire)
+<--->
+- [Gathering Ore](/wiki/primeval/guides/gathering_ore)
+- [Pit Firing](/wiki/primeval/guides/pit_firing)
+
+{{< /columns >}}
 
 ## Blocks
 
