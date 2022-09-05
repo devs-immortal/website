@@ -27,7 +27,7 @@ menu:
   main:
     - identifier: wiki
       name: Primeval Wiki
-      url: /wiki/primeval/home
+      url: /wiki/primeval
       weight: 10
 
 markup:
