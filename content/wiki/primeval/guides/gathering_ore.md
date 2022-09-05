@@ -1,7 +1,10 @@
 ---
 title: "Gathering Ore"
+summary: "To get started making tools, beyond your first flint tools, you'll need to collect metal ores from the surface."
+author: "24Chrome"
 date: 2022-09-05T11:21:26-05:00
-author: 24Chrome
+lastmod: 2022-09-05T22:06:43+02:00
+keywords: [primeval, wiki, guide, gathering, ore]
 ---
 
 To get started making tools, beyond your first flint tools, you'll need to collect metal ores from the surface.

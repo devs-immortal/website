@@ -1,7 +1,10 @@
 ---
 title: "Creating a Campfire"
+summary: "Campfires are essential for early game cooking, and can also be used to ignite other items like torches."
+author: "24Chrome"
 date: 2022-09-05T11:14:52-05:00
-author: 24Chrome
+lastmod: 2022-09-05T22:06:43+02:00
+keywords: [primeval, wiki, guide, creating, campfire]
 ---
 
 Campfires are essential for early game cooking, and can also be used to ignite other items like torches.

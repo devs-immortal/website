@@ -1,7 +1,10 @@
 ---
 title: "Primeval Wiki"
+summary: "This is a wiki about Primeval, a mod that aims to completely overhaul Minecraft's systems to create a rustic, realistic progression of the game."
+author: "24Chrome"
 date: 2022-08-18T18:44:00+00:00
-author: 24Chrome
+lastmod: 2022-09-05T11:14:52-05:00
+keywords: [primeval, wiki]
 ---
 
 Hello!
