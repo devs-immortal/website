@@ -30,6 +30,9 @@ menu:
       url: /wiki/primeval
       weight: 10
 
+minify:
+  minifyOutput: true
+
 markup:
   goldmark:
     renderer:
