@@ -11,12 +11,12 @@ Hello!
 
 I'll be adding more to this wiki as more features are added, but hopefully every page on here will be able to answer any questions you have about how to do something, or what you should do next if you're stuck.
 
-I would **HIGHLY** encourage using Roughly Enough Items (REI) or another recipe guide mod, as many of the recipes in this mod are not related to vanilla recipes.
+I would **HIGHLY** encourage using <a href="https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items" target="_blank">Roughly Enough Items</a> (REI) or another recipe guide mod, as many of the recipes in this mod are not related to vanilla recipes.
 
 **Check out [Getting Started](/wiki/primeval/guides/getting_started) for information on what to do!**
 
-#### NOTE: THIS MOD IS IN AN EARLY ALPHA STATE, AND MANY FEATURES NEED TO BE ADDED. DO NOT EXPECT A COMPLETE MOD!
-
+> **NOTE** \
+> This mod is in an early alpha state, and many features need to be added. Do not expect a complete mod!
 
 ## Guides
 
@@ -29,6 +29,10 @@ I would **HIGHLY** encourage using Roughly Enough Items (REI) or another recipe 
 - [Pit Firing](/wiki/primeval/guides/pit_firing)
 
 {{< /columns >}}
+
+&nbsp;
+
+<!--
 
 ## Blocks
 
@@ -161,3 +165,6 @@ I would **HIGHLY** encourage using Roughly Enough Items (REI) or another recipe 
 - [Fired Clay Sword Blade Mold](/wiki/primeval/items/)
 
 {{< /columns >}}
+
+
+-->

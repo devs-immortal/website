@@ -26,5 +26,5 @@ keywords: [primeval, wiki, guide, getting, started]
 ### Don't know what to start on?
 - [Create a campfire](/wiki/primeval/guides/creating_a_campfire)
 - [Gather ores from the surface to prepare to make your first tool](/wiki/primeval/guides/gathering_ore)
-- [Begin to pit fire ceramics]()
+- [Begin to pit fire ceramics](/wiki/primeval/guides/pit_firing)
 - [Build a structure to keep you safe at night]()
