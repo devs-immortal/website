@@ -17,7 +17,7 @@ date: 2023-04-05T19:16:08+00:00
 
 ### Installation
 
-1. Download and install [Fabric](https://fabricmc.net/use/installer/) for Minecraft 1.19.4.
+1. Download and install [Fabric](https://fabricmc.net/use/installer/) for Minecraft 1.21.
 2. Download [BindCommands](https://www.curseforge.com/minecraft/mc-mods/bindcommands), [Mod Menu](https://github.com/TerraformersMC/ModMenu), and [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin) mods.
 3. Place the downloaded mod files in the "mods" folder located in your Minecraft game directory.
 4. Launch Minecraft with the Fabric mod loader and enjoy the mod!
@@ -33,7 +33,7 @@ To use the BindCommands mod, follow these steps:
 5. Save the binding.
 6. Press the bound key to execute the command.
 
-## Feedback and Support
+### Feedback and Support
 
 If you encounter any issues while using the BindCommands mod or have any suggestions for improvement,
 please feel free to open an issue on the mod's [GitHub page](https://github.com/devs-immortal/bind-cmd/issues) or visit [our Discord](https://discord.com/invite/wmMa47n). We appreciate any and all feedback!
