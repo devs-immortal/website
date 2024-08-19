@@ -2,9 +2,13 @@
 title: "Paradise Lost"
 summary: "Frequently asked questions about the Paradise Lost mod."
 date: 2022-08-17T15:34:58+00:00
-lastmod: 2022-09-05T21:39:50+00:00
+lastmod: 2024-08-19T17:16:08+00:00
 keywords: [paradise, lost, frequently, asked, questions]
 ---
+
+### How do I make a portal?
+
+The portal frame is made with Bloomed Calcite. To obtain Bloomed Calcite, you can right click a regular potion onto a calcite block, or use a splash/lingering potion onto calcite blocks to get 2 bloomed calcite per potion. The portal is at least 4x5 blocks and is lit by right clicking the portal frame with a water bucket.
 
 ### How do I tame Moas?
 
@@ -26,7 +30,7 @@ Yes, BUT currently the portals may not instantly work, and you will need to trav
 
 Mobs for Paradise Lost are currently being worked on and may not be fully functional if they are able to be spawned at all. We are working towards adding new mobs with each update, and mobs may be changed and refined over time. Dungeons are currently being designed and do not generate in the world. Other structures may generate, but are in works in progress, and may have generation issues or appear unfinished.
 
-###  X isn't working / X has missing textures!
+### X isn't working / X has missing textures!
 
 Our mods are works in progress, and textures and models are still being refined and worked on. While generally everything in a mod will be functional, there are some items that are not 100% complete or are WIP. Our GitHub pages have [issue pages](https://github.com/devs-immortal/Paradise-Lost/issues "Issues · devs-immortal/Paradise-Lost") that are frequently updated for bugs and issues that need fixing, and suggestions are welcome to be submitted there or in [our Discord](https://immortaldevs.net/discord "Immortal Devs - Discord").
 
