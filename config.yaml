@@ -25,7 +25,7 @@ params:
     - name: "Discord"
       url: "https://discord.com/invite/wmMa47n"
     - name: "Twitter"
-      url: "https://twitter.com/devs_immortal"
+      url: "https://x.com/devs_immortal"
 menu:
   main:
     - identifier: wiki

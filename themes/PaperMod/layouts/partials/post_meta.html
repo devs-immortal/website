@@ -8,8 +8,6 @@
     {{- end -}}
 {{- end }}
 
-{{ debug.Dump . }}
-
 {{- if (.Param "ShowReadingTime") -}}
 {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}
 {{- end }}
