@@ -2,9 +2,9 @@
 
 {{- if not .Date.IsZero -}}
     {{- if or .Lastmod.IsZero (eq .Date.UTC .Lastmod.UTC) -}}
-        {{- $scratch.Add "meta" (slice (printf "<span title='Created: %s'>%s</span>" (dateFormat "Mon, 02 Jan 2006 15:04:05" .Date.UTC) (.Date | time.Format "January 2, 2006"))) }}
+        {{- $scratch.Add "meta" (slice (printf "<span title='Created: %s'>%s</span>" (.Date.UTC | time.Format "Mon, 02 Jan 2006 15:04:05") (.Date | time.Format "January 2, 2006"))) }}
     {{- else -}}
-        {{- $scratch.Add "meta" (slice (printf "<span title='Created: %s,&#013;Updated: %s'>%s</span>" (dateFormat "Mon, 02 Jan 2006 15:04:05" .Date.UTC) (dateFormat "Mon, 02 Jan 2006 15:04:05" .Lastmod.UTC) (.Date | time.Format "January 2, 2006"))) }}
+        {{- $scratch.Add "meta" (slice (printf "<span title='Created: %s,&#013;Updated: %s'>%s</span>" (.Date.UTC | time.Format "Mon, 02 Jan 2006 15:04:05") (.Lastmod.UTC | time.Format "Mon, 02 Jan 2006 15:04:05") (.Date | time.Format "January 2, 2006"))) }}
     {{- end -}}
 {{- end }}
 
