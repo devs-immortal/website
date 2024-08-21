@@ -8,7 +8,7 @@ keywords: [paradise, lost, frequently, asked, questions]
 
 ### How do I make a portal?
 
-The portal frame is made with Bloomed Calcite. To obtain Bloomed Calcite, you can right click a regular potion onto a calcite block, or use a splash/lingering potion onto calcite blocks to get 2 bloomed calcite per potion. The portal is at least 4x5 blocks and is lit by right clicking the portal frame with a water bucket.
+The portal frame is made with Bloomed Calcite. To obtain Bloomed Calcite, you can right click a healing potion onto a calcite block, or use a splash/lingering potion onto calcite blocks to get 2 bloomed calcite per potion. The portal is at least 4x5 blocks and is lit by right clicking the portal frame with a water bucket.
 
 ### How do I tame Moas?
 
