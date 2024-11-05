@@ -33,6 +33,16 @@
     -webkit-line-clamp: unset;
 }
 
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+}
+
+.post-grid .post-entry {
+    margin-bottom: 0;
+}
+
 .post-entry {
     position: relative;
     margin-bottom: var(--gap);
