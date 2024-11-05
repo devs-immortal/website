@@ -17,6 +17,47 @@
                 </td>
             </tr>
         {{- end -}}
+        {{- if isset .Params "health" -}}
+            <tr>
+                <td>
+                    Health points
+                </td>
+                <td>
+                    {{- index .Params "health" | int -}}
+                    ({{- math.Div (index .Params "health" | int) 2 -}} &times; <span class="heart-icon">❤️</span>)
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "behavior" -}}
+            <tr>
+                <td>
+                    Behavior
+                </td>
+                <td>
+                    {{- index .Params "behavior" -}}
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "strength" -}}
+            <tr>
+                <td>
+                    Attack strength
+                </td>
+                <td>
+                    {{- index .Params "strength" | int -}} <span class="heart-icon">❤️</span>
+                </td>
+            </tr>
+        {{- end -}}
+        {{- if isset .Params "speed" -}}
+            <tr>
+                <td>
+                    Speed
+                </td>
+                <td>
+                    {{- index .Params "speed" | int -}}
+                </td>
+            </tr>
+        {{- end -}}
         {{- if isset .Params "renewable" -}}
             <tr>
                 <td>
