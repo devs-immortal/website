@@ -23,14 +23,18 @@ params:
     - name: "GitHub"
       url: "https://github.com/devs-immortal"
     - name: "Discord"
-      url: "https://discord.com/invite/wmMa47n"
+      url: "https://discord.gg/8q7dNtHAvJ"
     - name: "Twitter"
       url: "https://x.com/devs_immortal"
 menu:
   main:
-    - identifier: wiki
+    - identifier: primeval-wiki
       name: Primeval Wiki
       url: /wiki/primeval
+      weight: 10
+    - identifier: pl-wiki
+      name: Paradise Lost Wiki
+      url: /wiki/paradise-lost
       weight: 10
 
 minify:

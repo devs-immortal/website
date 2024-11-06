@@ -1,27 +1,30 @@
 ---
 title: "Paradise Lost"
-date: 2022-08-17T15:34:58+00:00
-summary: "Paradise Lost stands to be a new Skylands Dimension mod, inspired by the legendary Aether mod and seeking to grant great, fresh adventures."
+date: 2024-11-06T15:34:58+00:00
+weight: 2
+author: 24Chrome
+summary: "Paradise Lost is a Skylands Dimension mod, inspired by the legendary Aether mod and looking to provide fresh adventures and fun mechanics to explore."
 ---
 
-Paradise Lost stands to be a new Skylands Dimension mod, inspired by the legendary Aether mod and seeking to grant great, fresh adventures.
 
 ### What is Paradise Lost?
 
-_Ah, come hither, let me tell you a tale of a land in the sky, a hostile paradise lost to time. ..._
+Paradise Lost is a Skylands Dimension mod, inspired by the legendary Aether mod and looking to provide fresh adventures and fun mechanics to explore. 
 
-These old skylands are shattered world set on a canvas of clouds, painted from pastel greens and gentle blues, cast upon a new dawn.\
-This world is a host to a great many creatures, peoples, and places, amidst the sea of aercloud you may find
-landscapes unlike any you've seen before, dungeons filled with trap and treasure, and hamlets that may make a for a goody home.\
-Gaze upon the horizon as a new dawn breaks over this olden land, allow yourself to get lost in the endless expanse, let your heart guide you.
+Paradise Lost is designed to fit seamlessly with Vanilla progression and style, becoming accessible after players have explored both the Overworld and Nether. Many blocks and items can be found in and derived from resources in Paradise to be used for function and fun. Unique structures can be found with custom mobs for players to fight and loot to take.
 
-Gaze upon the moon as you wander amidst snow, song, and sand, remembering the home you left behind but never looking back.\
-For what does homesickness say forthwith about a man when wonders lay abound at each crevice...\
-Regardless, why are you still here? Go venture out! I am not going to tell you the whole story, go find it out yourself!\
-After all...\
-An explorer must explore.
+### How can I learn about the mod?
 
+To find answers about any frequently asked questions, check the **[FAQ](/faq/)**!
 
-**_...and let you be deaf to the song's sweet lies._**
+To explore what Paradise Lost has to offer, check out the **[wiki](/wiki/paradise-lost/)**!
+
+### How can I contribute or keep up to date on releases?
+
+We are always looking for new ideas and feedback to keep the mod interesting and bug free. If you would like to contribute, check out the source on GitHub and follow the instructions there for writing a suggestion for the mod.
+
+Also consider joining the **[Immortal Devs' Discord channel](https://discord.gg/8q7dNtHAvJ)** and talking about the mod there if you are interested in following the development or discussing with us and other players!
+
+Found on [Modrinth](https://modrinth.com/mod/paradise-lost), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/paradise-lost) and [Github](https://github.com/devs-immortal/Paradise-Lost/releases)!
 
 **FAQ:** [Paradise Lost FAQ](/faq/)
