@@ -22,10 +22,10 @@ params:
       url: "https://modrinth.com/mod/paradise-lost"
     - name: "GitHub"
       url: "https://github.com/devs-immortal"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/immortaldevs.net"
     - name: "Discord"
-      url: "https://discord.gg/8q7dNtHAvJ"
-    - name: "Twitter"
-      url: "https://x.com/devs_immortal"
+      url: "https://discord.gg/TvuNtNYEvr"
 menu:
   main:
     - identifier: primeval-wiki
