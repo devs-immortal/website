@@ -32,10 +32,10 @@ menu:
       name: Primeval Wiki
       url: /wiki/primeval
       weight: 10
-    - identifier: pl-wiki
-      name: Paradise Lost Wiki
-      url: /wiki/paradise-lost
-      weight: 10
+    # - identifier: pl-wiki
+    #   name: Paradise Lost Wiki
+    #   url: /wiki/paradise-lost
+    #   weight: 10
 
 minify:
   minifyOutput: true
