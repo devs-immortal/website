@@ -7,13 +7,13 @@ keywords: [ highlands, biome, temperate ]
 ---
 
 <img src="/wiki/biomes/highlands.png">
-Popoms and Moas grazing the Highlands
+Popoms and Moas grazing the Highlands.
 
 ## Features
 The Highlands Biome is one of the most common biomes in Paradise. 
 
-It is a relatively flat biome with a variety of ground flora: grass, bushes, leafpiles and flowers.
-Small and Medium Aurel trees dot the surface of the biome, and small floestone boulders can occasionally be found partially buried in the ground
+It is a relatively flat biome with a variety of ground flora: grass, bushes, leaf piles and flowers.
+Small and Medium Aurel trees dot the surface of the biome, and small floestone boulders can occasionally be found partially buried in the ground.
 
 
 ## Resources
