@@ -1,10 +1,8 @@
 ---
 title: "Highlands Forest"
-summary: "A simple forested biome full of Aurel trees"
+summary: "A forested biome full of Aurel trees and small patches of grass"
 author: 24Chrome
-date: 2024-11-06T15:01:12-06:00
-lastmod: 2024-11-06T15:01:12-06:00
-keywords: [ highlands, forest, biome ]
-draft: true
+thumbnail: /thumbnails/highlands_forest.png
+keywords: [ highlands, forest, biome, temperate ]
 ---
 
