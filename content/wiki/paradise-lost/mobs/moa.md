@@ -7,7 +7,7 @@ keywords: [moa, mob, passive, animal]
 ---
 
 <img src="/wiki/paradise_lost/mobs/moa.png">
-Two differently colored packs of Moas in a Highlands Forest.
+Two different colored packs of Moas in a Highlands Forest.
 
 ## Behavior
 Moas are passive animals that are found in nearly every biome of Paradise. They can be tamed and ridden like horses, with a jump and glide movement style that helps with traversing the shattered islands of the dimension or with travelling quickly in the Overworld. Each biomes has a unique set of colors and patterns that moas can spawn with, and specific combinations of Moa can be bred to get other colors and breeding exclusive patterns. 
