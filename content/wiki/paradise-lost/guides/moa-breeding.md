@@ -2,18 +2,18 @@
 title: "Moa Breeding"
 summary: "A breakdown of Moa patterns and colors, where they spawn, and breeding results"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/mobs/popom.png
+thumbnail: /wiki/paradise_lost/thumbnails/guides/moa_breeding.png
 keywords: [moa, breeding, guide, egg]
 ---
 
-<img src="/wiki/paradise_lost/mobs/popom.png">
-Something probably
+<img src="/wiki/paradise_lost/guides/moa_breeding.png">
+A newborn Greenseed Moa in a large enclosure.
 
 ## Moa Breeding
 
 [Moas](/wiki/paradise-lost/mobs/moa/) are tempted and bred with **Oranges** harvested from Orange trees. The offspring will have an equal chance of inheriting the pattern of each parent unless a special breeding result exists. Children will inherit improved stats from their parent meaning that the children will have **equal or better stats**.
 
-Breeding Moas does not immediately spawn the child, instead dropping a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. Incubation is affected by multiple factors, which you can read about in the **[Incubation Guide](/wiki/paradise-lost/guides/incubation/)**.
+Breeding [Moas](/wiki/paradise-lost/mobs/moa/) does not immediately spawn the child, instead dropping a Moa Egg that must be incubated in either an **Incubator** or **Moa Nest** block. Incubation is affected by multiple factors, which you can read about in the **[Incubation Guide](/wiki/paradise-lost/guides/incubation/)**.
 
 
 ## Moa Variants
