@@ -36,10 +36,10 @@ Small and Medium Aurel trees dot the surface of the biome, and small floestone b
 ## Mobs
 
 ### Friendly
-* **Moas** can be found in this biome
-* **Popoms** are common in this biome
+* **[Moas](/wiki/paradise-lost/mobs/moa/)** can be found in this biome
+* **[Popoms](/wiki/paradise-lost/mobs/popom/)** are common in this biome
 
 
 ### Hostile
-* **Envoys** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
 

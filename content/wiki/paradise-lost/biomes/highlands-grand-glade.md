@@ -35,9 +35,9 @@ Fallen logs generate frequently in this biome alongside rare Small and Medium Au
 ## Mobs
 
 ### Friendly
-* **Moas** can be found in this biome
+* **[Moas](/wiki/paradise-lost/mobs/moa/)** can be found in this biome
 
 
 ### Hostile
-* **Envoys** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
 

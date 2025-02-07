@@ -38,10 +38,10 @@ This biome is densely forested but has less flora, instead having more surface s
 ## Mobs
 
 ### Friendly
-* **Moas** are uncommon in this biome
+* **[Moas](/wiki/paradise-lost/mobs/moa/)** are uncommon in this biome
 
 
 ### Hostile
-* **Envoys** spawn in this biome at night and in dark areas
+* **[Envoys](/wiki/paradise-lost/mobs/envoy/)** spawn in this biome at night and in dark areas
 
 
