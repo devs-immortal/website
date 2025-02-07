@@ -2,11 +2,11 @@
 title: "Highlands Shield"
 summary: "A wet forested biome covered with fungi and Mottled Aurel trees"
 author: 24Chrome
-thumbnail: /wiki/thumbnails/biomes/highlands_shield.png
+thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands_shield.png
 keywords: [ highlands, shield, biome, warm ]
 ---
 
-<img src="/wiki/biomes/highlands_shield.png">
+<img src="/wiki/paradise_lost/biomes/highlands_shield.png">
 A small clearing in a Highlands Shield
 
 ## Features

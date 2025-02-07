@@ -2,11 +2,11 @@
 title: "Highlands Grand Glade"
 summary: "A dark grasslands biome dotted with mushrooms, liverwort, and fallen tree trunks "
 author: 24Chrome
-thumbnail: /wiki/thumbnails/biomes/highlands_grand_glade.png
+thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands_grand_glade.png
 keywords: [ highlands, grand, glade, biome, warm ]
 ---
 
-<img src="/wiki/biomes/highlands_grand_glade.png">
+<img src="/wiki/paradise_lost/biomes/highlands_grand_glade.png">
 A Highlands Grand Glade clearing surrounded by Highlands Thicket
 
 ## Features

@@ -2,11 +2,11 @@
 title: "Continental Plateau"
 summary: "A flowery plains biome with ice spikes jutting out of the ground"
 author: 24Chrome
-thumbnail: /wiki/thumbnails/biomes/continental_plateau.png
+thumbnail: /wiki/paradise_lost/thumbnails/biomes/continental_plateau.png
 keywords: [ continental, plateau, biome, cold ]
 ---
 
-<img src="/wiki/biomes/continental_plateau.png">
+<img src="/wiki/paradise_lost/biomes/continental_plateau.png">
 A large expanse of Continental Plateau.
 
 ## Features

@@ -2,11 +2,11 @@
 title: "Highlands"
 summary: "A grasslands biome with tall grass, flowers, and sparse Aurel trees"
 author: 24Chrome
-thumbnail: /wiki/thumbnails/biomes/highlands.png
+thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands.png
 keywords: [ highlands, biome, temperate ]
 ---
 
-<img src="/wiki/biomes/highlands.png">
+<img src="/wiki/paradise_lost/biomes/highlands.png">
 Popoms and Moas grazing the Highlands.
 
 ## Features
