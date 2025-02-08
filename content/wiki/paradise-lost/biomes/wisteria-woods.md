@@ -3,7 +3,7 @@ title: "Wisteria Woods"
 summary: "A densely forested biome with lots of flowers and pink and purple Wisteria trees"
 author: 24Chrome
 thumbnail: /wiki/paradise_lost/thumbnails/biomes/wisteria_woods.png
-keywords: [ wisteria, woods biome, temperate ]
+keywords: [wisteria, woods biome, temperate]
 ---
 
 <img src="/wiki/paradise_lost/biomes/wisteria_woods.png">

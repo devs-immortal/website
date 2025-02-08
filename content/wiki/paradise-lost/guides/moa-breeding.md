@@ -40,17 +40,17 @@ Breeding [Moas](/wiki/paradise-lost/mobs/moa/) does not immediately spawn the ch
     <td></td>
   </tr>
   <tr>
-    <td>Goldenrod</td>
-    <td><a href="/wiki/paradise-lost/biomes/wisteria-woods">Wisteria Woods</a> (45)<br><a href="/wiki/paradise-lost/biomes/highlands-forest">Highlands Forest</a> (25)<br><a href="/wiki/paradise-lost/biomes/highlands-shield">Highlands Shield</a> (10)</td>
-    <td>Ground Speed<br>(Endurance)</td>
-    <td><img src="/wiki/paradise_lost/renders/moa/goldenrod.png" width="30%"></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>Mintgrass</td>
     <td><a href="/wiki/paradise-lost/biomes/highlands-thicket">Highlands Thicket</a> (45)<br><a href="/wiki/paradise-lost/biomes/highlands">Highlands</a> (35)</td>
     <td>Gliding Speed<br>(Speed)</td>
     <td><img src="/wiki/paradise_lost/renders/moa/mintgrass.png" width="30%"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Goldenrod</td>
+    <td><a href="/wiki/paradise-lost/biomes/wisteria-woods">Wisteria Woods</a> (45)<br><a href="/wiki/paradise-lost/biomes/highlands-forest">Highlands Forest</a> (25)<br><a href="/wiki/paradise-lost/biomes/highlands-shield">Highlands Shield</a> (10)</td>
+    <td>Ground Speed<br>(Endurance)</td>
+    <td><img src="/wiki/paradise_lost/renders/moa/goldenrod.png" width="30%"></td>
     <td></td>
   </tr>
   <tr>

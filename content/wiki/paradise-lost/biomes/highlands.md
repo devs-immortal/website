@@ -3,7 +3,7 @@ title: "Highlands"
 summary: "A grasslands biome with tall grass, flowers, and sparse Aurel trees"
 author: 24Chrome
 thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands.png
-keywords: [ highlands, biome, temperate ]
+keywords: [highlands, biome, temperate]
 ---
 
 <img src="/wiki/paradise_lost/biomes/highlands.png">
