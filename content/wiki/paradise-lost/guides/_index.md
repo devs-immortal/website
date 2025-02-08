@@ -4,4 +4,5 @@ summary: "A list of Guides to help get started with Paradise Lost and describe c
 author: 24Chrome
 thumbnail: /wiki/paradise_lost/thumbnails/guides.png
 keywords: [paradise, lost, wiki, guides, start]
+weight: 2
 ---
