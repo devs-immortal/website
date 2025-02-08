@@ -57,6 +57,13 @@
     transform: scale(0.96);
 }
 
+.post-entry img {
+    border-radius: 6px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 12px;
+}
+
 .tag-entry .entry-cover {
     display: none;
 }
