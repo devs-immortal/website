@@ -6,4 +6,4 @@ keywords: [paradise, lost, wiki, levitator, block]
 draft: true
 ---
 
-{{< infobox name="Levitator" image="minecraft/clay_ball.png" renewable="Yes" stackable="Yes (64)" tool="Shovel" >}}
+{{< infobox name="Levitator" image="minecraft/clay_ball.webp" renewable="Yes" stackable="Yes (64)" tool="Shovel" >}}

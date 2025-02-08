@@ -2,11 +2,11 @@
 title: "Envoy"
 summary: "Hostile skeletons that spawn in dark areas and inhabit various structures"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/mobs/envoy.png
+thumbnail: /wiki/paradise_lost/thumbnails/mobs/envoy.webp
 keywords: [envoy, mob, hostile, structure]
 ---
 
-<img src="/wiki/paradise_lost/mobs/envoy.png">
+<img src="/wiki/paradise_lost/mobs/envoy.webp">
 A group of Envoys hiding from the sun in a cave near the surface.
 
 ## Behavior

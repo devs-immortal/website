@@ -2,11 +2,11 @@
 title: "Birdcage"
 summary: "An ancient tomb that contains valuable relics but which has been eroded and overgrown over time"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/structures/birdcage.png
+thumbnail: /wiki/paradise_lost/thumbnails/structures/birdcage.webp
 keywords: [structure, structures, birdcage, underground]
 ---
 
-<img src="/wiki/paradise_lost/structures/birdcage.png">
+<img src="/wiki/paradise_lost/structures/birdcage.webp">
 A mostly exposed Birdcage dug into an uneven cliff.
 
 ## Description

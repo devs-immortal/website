@@ -2,11 +2,11 @@
 title: "Getting Started"
 summary: "How to get to Paradise, and where to go from there"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/guides/getting_started.png
+thumbnail: /wiki/paradise_lost/thumbnails/guides/getting_started.webp
 keywords: [getting, started, start, guide, portal]
 ---
 
-<img src="/wiki/paradise_lost/guides/getting_started.png">
+<img src="/wiki/paradise_lost/guides/getting_started.webp">
 A small player camp set up next to a Paradise portal with an Aurel Tower looming in the background.
 
 ## Getting To Paradise

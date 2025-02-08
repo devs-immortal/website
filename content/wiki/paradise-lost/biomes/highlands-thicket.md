@@ -2,11 +2,11 @@
 title: "Highlands Thicket"
 summary: "A densely forested biome with large Aurel trees and rare Mother Aurel trees"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands_thicket.png
+thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands_thicket.webp
 keywords: [highlands, shield, biome, warm]
 ---
 
-<img src="/wiki/paradise_lost/biomes/highlands_thicket.png">
+<img src="/wiki/paradise_lost/biomes/highlands_thicket.webp">
 A Thicket covering a large cliff area with a Mother Aurel tree poking out near the top.
 
 ## Features

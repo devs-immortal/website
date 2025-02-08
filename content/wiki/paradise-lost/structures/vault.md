@@ -2,11 +2,11 @@
 title: "Vault"
 summary: "A subterranean complex hiding ancient technology and guarded by Enlightened Envoys"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/structures/vault.png
+thumbnail: /wiki/paradise_lost/thumbnails/structures/vault.webp
 keywords: [structure, structures, vault, underground, map]
 ---
 
-<img src="/wiki/paradise_lost/structures/vault.png">
+<img src="/wiki/paradise_lost/structures/vault.webp">
 A Vault treasure room guarded by an Enlightened Envoys
 
 ## Description

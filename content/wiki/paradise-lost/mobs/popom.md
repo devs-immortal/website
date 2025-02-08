@@ -2,11 +2,11 @@
 title: "Popom"
 summary: "Cute animals that love eating flowers and produce healing jelly"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/mobs/popom.png
+thumbnail: /wiki/paradise_lost/thumbnails/mobs/popom.webp
 keywords: [popom, mob, passive, animal]
 ---
 
-<img src="/wiki/paradise_lost/mobs/popom.png">
+<img src="/wiki/paradise_lost/mobs/popom.webp">
 A group of Popoms grazing on Cloudsbluff flowers in the Highlands.
 
 ## Behavior

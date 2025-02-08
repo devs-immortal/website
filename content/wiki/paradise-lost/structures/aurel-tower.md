@@ -2,11 +2,11 @@
 title: "Aurel Tower"
 summary: "A common surface landmark that can be used as a lookout point"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/structures/aurel-tower.png
+thumbnail: /wiki/paradise_lost/thumbnails/structures/aurel-tower.webp
 keywords: [structure, structures, aurel, tower, surface, vault, map]
 ---
 
-<img src="/wiki/paradise_lost/structures/aurel-tower.png">
+<img src="/wiki/paradise_lost/structures/aurel-tower.webp">
 An Aurel Tower generated on the border of a Highlands and Highlands Forest.
 
 ## Description

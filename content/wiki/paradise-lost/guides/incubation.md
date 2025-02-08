@@ -2,11 +2,11 @@
 title: "Incubation"
 summary: "Information on how moa eggs are incubated and hatched"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/guides/incubation.png
+thumbnail: /wiki/paradise_lost/thumbnails/guides/incubation.webp
 keywords: [moa, incubation, guide, egg, incubator, nest]
 ---
 
-<img src="/wiki/paradise_lost/guides/incubation.png">
+<img src="/wiki/paradise_lost/guides/incubation.webp">
 Two Moa eggs incubating on the porch of a small house.
 
 ## Obtaining Moa Eggs

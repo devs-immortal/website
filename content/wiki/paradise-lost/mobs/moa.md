@@ -2,11 +2,11 @@
 title: "Moa"
 summary: "A large tamable bird that can be found in nearly every biome of Paradise"
 author: 24Chrome
-thumbnail: /wiki/paradise_lost/thumbnails/mobs/moa.png
+thumbnail: /wiki/paradise_lost/thumbnails/mobs/moa.webp
 keywords: [moa, mob, passive, animal]
 ---
 
-<img src="/wiki/paradise_lost/mobs/moa.png">
+<img src="/wiki/paradise_lost/mobs/moa.webp">
 Two different colored packs of Moas in a Highlands Forest.
 
 ## Behavior
