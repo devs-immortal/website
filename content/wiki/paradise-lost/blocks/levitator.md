@@ -1,9 +1,20 @@
 ---
-title: "Levitator"
-date: 2024-11-05T23:07:14-00:00
-lastmod: 2024-11-05T23:07:14-00:00
-keywords: [paradise, lost, wiki, levitator, block]
-draft: true
+title: "Redstone Levitator"
+summary: "A new rail that levitates Minecarts that pass over it to allow for floating Minecart travel"
+author: 24Chrome
+thumbnail: /wiki/paradise_lost/thumbnails/blocks/levitator.webp
+keywords: [block, redstone, levitation]
 ---
 
-{{< infobox name="Levitator" image="minecraft/clay_ball.webp" renewable="Yes" stackable="Yes (64)" tool="Shovel" >}}
+<img src="/wiki/paradise_lost/blocks/levitator.webp">
+An Envoy being carried upwards by a Redstone Levitator.
+
+## Function
+Redstone Levitators are a form of controlled block levitation that can be used to make elevators or as a Redstone component.
+
+When powered, Redstone Levitators will float upwards until they encounter a ceiling where they will stop levitating and become a block again. 
+
+**[Golden Clouds](/wiki/paradise-lost/blocks/clouds/)** are especially useful for returning a Redstone Levitator back down to its starting position.
+
+## Obtaining
+Redstone Levitators are quite expensive, each requiring 3 Levita Beads with 2 Redstone and 4 Heliolith Bricks, however for a simple elevator 1 Redstone Levitator is usually sufficient.
