@@ -4,6 +4,7 @@ summary: "How to get to Paradise, and where to go from there"
 author: 24Chrome
 thumbnail: /wiki/paradise_lost/thumbnails/guides/getting_started.webp
 keywords: [getting, started, start, guide, portal]
+weight: 2
 ---
 
 <img src="/wiki/paradise_lost/guides/getting_started.webp">
