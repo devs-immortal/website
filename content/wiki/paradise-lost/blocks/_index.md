@@ -1,8 +1,7 @@
 ---
-title: "Blocks"
-summary: "TODO"
-date: 2024-11-05T23:07:14-00:00
-lastmod: 2024-11-05T23:07:14-00:00
-keywords: [paradise, lost, wiki, blocks]
-draft: true
+title: "Functional Blocks"
+summary: "Paradise Lost introduces many new functional blocks each with unique uses"
+author: 24Chrome
+thumbnail: /wiki/paradise_lost/thumbnails/blocks.webp
+keywords: [paradise, lost, wiki, blocks, redstone]
 ---

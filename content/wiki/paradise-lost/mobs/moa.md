@@ -18,7 +18,7 @@ To see a full list of Moa spawn colors and breeding percentages, check out the *
 Moas can be tamed by feeding them any **Raw Meat** items. Once tamed, a Moa has an inventory much like a Horse/Donkey/Mule and can be saddled and/or equipped with a chest to provide 20 storage slots.
 
 ### Moa Stats
-Each Moa has six associated stats that can be checked with an **Olvite Bloodstone**:
+Each Moa has six associated stats that can be checked with an **[Surtrum Bloodstone](/wiki/paradise-lost/items/bloodstone/)**:
 * **Ground Speed** is the movement speed while on the ground
 * **Gliding Speed** is the horizontal movement speed while in the air and gliding
 * **Gliding Decay** is the rate at which a Moa descends while gliding
