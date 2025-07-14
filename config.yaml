@@ -37,6 +37,11 @@ menu:
       url: /wiki/paradise-lost
       weight: 10
 
+languages:
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 10
 minify:
   minifyOutput: true
 

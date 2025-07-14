@@ -23,6 +23,6 @@ To explore what Paradise Lost has to offer, check out the **[wiki](/wiki/paradis
 
 We are always looking for new ideas and feedback to keep the mod interesting and bug free. If you would like to contribute, check out the source on GitHub and follow the instructions there for writing a suggestion for the mod.
 
-Also consider joining the **[Immortal Devs' Discord channel](https://discord.gg/8q7dNtHAvJ)** and talking about the mod there if you are interested in following the development or discussing with us and other players!
+Also consider joining the **[Immortal Devs' Discord channel](https://discord.com/invite/TvuNtNYEvr)** and talking about the mod there if you are interested in following the development or discussing with us and other players!
 
 Found on [Modrinth](https://modrinth.com/mod/paradise-lost), [Curseforge](https://www.curseforge.com/minecraft/mc-mods/paradise-lost) and [Github](https://github.com/devs-immortal/Paradise-Lost/releases)!

@@ -26,4 +26,4 @@ Color-code your chests and barrels to easily distinguish between different types
 
 ### Feedback and Support
 
-If you encounter any issues while using the BindCommands mod or have any suggestions for improvement, please feel free to [open an issue](https://github.com/devs-immortal/chest-colorizer/issues) on the mod's GitHub page or visit [our Discord](https://discord.com/invite/wmMa47n). We appreciate any and all feedback!
+If you encounter any issues while using the BindCommands mod or have any suggestions for improvement, please feel free to [open an issue](https://github.com/devs-immortal/chest-colorizer/issues) on the mod's GitHub page or visit [our Discord](https://discord.com/invite/TvuNtNYEvr). We appreciate any and all feedback!

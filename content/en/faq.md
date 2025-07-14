@@ -36,7 +36,7 @@ Our mods are works in progress, and textures and models are still being refined 
 
 ### Will Paradise Lost be ported to Forge? Why only a Fabric mod?
 
-A version of Paradise Lost will not be ported to Forge. We are developing an Aether inspired mod, not an Aether port, and are taking it in a new direction. If you're looking for a Forge equivalent, the closest will be Gilded Games' official Aether mod, which can be found here: [https://discord.gg/rFF7QDdMdG](https://discord.gg/rFF7QDdMdG " - Discord")
+A version of Paradise Lost will not be ported to Forge. We are developing an Aether inspired mod, not an Aether port, and are taking it in a new direction. If you're looking for a Forge equivalent, the closest will be Gilded Games' official Aether mod, which can be found here: [https://discord.com/invite/TvuNtNYEvr](https://discord.com/invite/TvuNtNYEvr " - Discord")
 
 ### Is this the official Aether mod / mod team?
 
