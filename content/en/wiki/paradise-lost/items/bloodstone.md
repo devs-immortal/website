@@ -2,6 +2,8 @@
 title: "Bloodstones"
 summary: "A new tool type that allows for reading mob stats in Survival"
 author: 24Chrome
+date: 2025-06-14T17:14:50+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/items/bloodstone.webp
 keywords: [item, tool, wand, moa]
 ---

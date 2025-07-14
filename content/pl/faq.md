@@ -1,7 +1,7 @@
 ---
 title: "Paradise Lost"
 summary: "Najczęściej zadawane pytania dotyczące moda Paradise Lost."
-date: 2022-08-17T15:34:58+00:00
+date: 2025-07-14T16:57:36+00:00
 lastmod: 2025-07-14T16:43:22+00:00
 keywords: [paradise, lost, często, zadawane, pytania]
 ---

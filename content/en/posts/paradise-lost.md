@@ -1,6 +1,7 @@
 ---
 title: "Paradise Lost"
-date: 2024-11-06T15:34:58+00:00
+date: 2022-08-17T16:24:51+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 weight: 2
 author: 24Chrome
 summary: "Paradise Lost is a Skylands Dimension mod, inspired by the legendary Aether mod and looking to provide fresh adventures and fun mechanics to explore."

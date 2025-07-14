@@ -1,6 +1,6 @@
 ---
 title: "Clay Block"
-date: 2022-08-17T15:34:58+00:00
+date: 2022-08-18T11:52:50+00:00
 lastmod: 2022-09-05T22:06:43+02:00
 keywords: [primeval, wiki, clay, block]
 ---

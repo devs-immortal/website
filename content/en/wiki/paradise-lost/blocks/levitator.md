@@ -2,6 +2,8 @@
 title: "Redstone Levitator"
 summary: "A new rail that levitates Minecarts that pass over it to allow for floating Minecart travel"
 author: 24Chrome
+date: 2024-11-05T23:41:37+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/blocks/levitator.webp
 keywords: [block, redstone, levitation]
 ---

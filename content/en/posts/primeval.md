@@ -1,6 +1,7 @@
 ---
 title: "Primeval"
-date: 2022-08-17T16:24:14+00:00
+date: 2022-08-17T16:24:51+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 weight: 2
 author: 24Chrome
 summary: "A mod aiming for a complete overhaul of Minecraft’s usual gameplay systems to create a rustic, “realistic” game progression. Several vanilla systems are completely changed, whereas others are relatively similar."

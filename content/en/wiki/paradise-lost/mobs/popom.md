@@ -2,6 +2,8 @@
 title: "Popom"
 summary: "Cute animals that love eating flowers and produce healing jelly"
 author: 24Chrome
+date: 2025-02-07T17:52:22+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/mobs/popom.webp
 keywords: [popom, mob, passive, animal]
 ---

@@ -2,6 +2,8 @@
 title: "Levita Rail"
 summary: "A new rail that levitates Minecarts that pass over it to allow for floating Minecart travel"
 author: 24Chrome
+date: 2025-06-14T21:17:53+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/blocks/levita_rail.webp
 keywords: [block, redstone, levitation]
 ---

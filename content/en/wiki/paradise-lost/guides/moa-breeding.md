@@ -2,6 +2,8 @@
 title: "Moa Breeding"
 summary: "A breakdown of Moa patterns and colors, where they spawn, and breeding results"
 author: 24Chrome
+date: 2025-02-07T19:34:45+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/guides/moa_breeding.webp
 keywords: [moa, breeding, guide, egg]
 weight: 2

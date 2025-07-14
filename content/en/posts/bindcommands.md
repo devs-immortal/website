@@ -2,7 +2,8 @@
 title: "BindCommands"
 summary: "BindCommands allows you to bind Minecraft commands to specific keys on your keyboard, making it easier and faster to execute commands in the game."
 author: "kalucky0"
-date: 2023-04-05T19:16:08+00:00
+date: 2023-04-05T19:46:53+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 ---
 
 **The BindCommands mod allows players to bind Minecraft commands to specific keys on their keyboard, making it easier and faster to execute commands in the game.**

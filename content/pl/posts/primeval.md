@@ -1,6 +1,6 @@
 ---
 title: "Primeval"
-date: 2025-07-14T16:43:22+00:00
+date: 2025-07-14T16:57:36+00:00
 weight: 2
 author: 24Chrome
 summary: "Modyfikacja mająca na celu kompletne przebudowanie systemów rozgrywki Minecrafta, tak aby stworzyć bardziej rustykalny i realistyczny postęp gry. Kilka systemów zostaje całkowicie zmienionych, podczas gdy inne pozostają względnie podobne do oryginału."

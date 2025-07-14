@@ -2,6 +2,8 @@
 title: "Nitra"
 summary: "An explosive vegetable grown from seeds found in various Paradise structures"
 author: 24Chrome
+date: 2025-06-14T17:14:50+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/items/nitra.webp
 keywords: [item, crop, plant, explosive]
 ---

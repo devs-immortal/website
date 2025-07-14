@@ -2,6 +2,8 @@
 title: "Highlands Forest"
 summary: "A forested biome full of Aurel trees and small patches of grass"
 author: 24Chrome
+date: 2024-11-06T21:30:56+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/biomes/highlands_forest.webp
 keywords: [highlands, forest, biome, temperate]
 ---

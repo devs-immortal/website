@@ -1,6 +1,6 @@
 ---
 title: "Paradise Lost"
-date: 2025-07-14T16:42:10+00:00
+date: 2025-07-14T16:57:36+00:00
 weight: 2
 author: 24Chrome
 summary: "Paradise Lost to modyfikacja dodająca wymiar niebiańskich wysp, inspirowana legendarnym modem Aether i mająca na celu dostarczenie nowych przygód i ciekawych mechanik do odkrycia."

@@ -2,6 +2,8 @@
 title: "Getting Started"
 summary: "How to get to Paradise, and where to go from there"
 author: 24Chrome
+date: 2025-02-08T00:51:54+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/guides/getting_started.webp
 keywords: [getting, started, start, guide, portal]
 weight: 2

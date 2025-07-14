@@ -2,7 +2,7 @@
 title: "Pit Firing"
 summary: "Pit Firing is the first way to fire clay into bricks, clay molds, jugs, pots, and more. You will have to do a lot of pit firing in the early game."
 author: "24Chrome"
-date: 2022-09-05T11:41:52-05:00
+date: 2022-09-05T17:03:49+00:00
 lastmod: 2022-09-05T22:06:43+02:00
 keywords: [primeval, wiki, guide, pit, firing]
 ---

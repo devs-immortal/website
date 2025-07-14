@@ -2,6 +2,8 @@
 title: "Bloomed Calcite"
 summary: "The block that comprises the Paradise Portal's frame, created with Calcite and Potions of Healing"
 author: 24Chrome
+date: 2025-06-14T21:17:53+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/blocks/bloomed_calcite.webp
 keywords: [block, calcite, portal]
 ---

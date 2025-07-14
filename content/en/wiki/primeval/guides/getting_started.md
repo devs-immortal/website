@@ -2,7 +2,7 @@
 title: "Getting Started"
 summary: "Welcome to the world of Primeval! All vanilla items and blocks have been made unobtainable, and you'll have to relearn some things."
 author: "24Chrome"
-date: 2022-09-05T11:21:26-05:00
+date: 2022-09-05T17:03:49+00:00
 lastmod: 2022-09-05T22:06:43+02:00
 keywords: [primeval, wiki, guide, getting, started]
 ---

@@ -2,6 +2,8 @@
 title: "Clouds"
 summary: "A set of naturally generated blocks that have unique properties when collided with"
 author: 24Chrome
+date: 2025-06-14T21:17:53+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/blocks/clouds.webp
 keywords: [block, redstone, levitation]
 ---

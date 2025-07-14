@@ -2,6 +2,8 @@
 title: "Aurel Tower"
 summary: "A common surface landmark that can be used as a lookout point"
 author: 24Chrome
+date: 2025-02-07T23:53:45+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/structures/aurel-tower.webp
 keywords: [structure, structures, aurel, tower, surface, vault, map]
 ---

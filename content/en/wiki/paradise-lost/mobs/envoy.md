@@ -2,6 +2,8 @@
 title: "Envoy"
 summary: "Hostile skeletons that spawn in dark areas and inhabit various structures"
 author: 24Chrome
+date: 2025-02-07T17:52:22+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/mobs/envoy.webp
 keywords: [envoy, mob, hostile, structure]
 ---

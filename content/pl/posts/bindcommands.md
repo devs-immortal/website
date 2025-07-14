@@ -2,7 +2,7 @@
 title: "BindCommands"
 summary: "BindCommands pozwala na przypisanie poleceń Minecrafta do konkretnych klawiszy na klawiaturze, co ułatwia i przyspiesza wykonywanie poleceń w grze."
 author: "kalucky0"
-date: 2025-07-14T15:36:08+00:00
+date: 2025-07-14T16:57:36+00:00
 ---
 
 **Modyfikacja BindCommands pozwala graczom przypisać polecenia Minecrafta do konkretnych klawiszy na klawiaturze, co ułatwia i przyspiesza wykonywanie poleceń w grze.**

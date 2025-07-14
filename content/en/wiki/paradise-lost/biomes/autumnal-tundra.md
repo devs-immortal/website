@@ -2,6 +2,8 @@
 title: "Autumnal Tundra"
 summary: "A frozen plains biome with hard frozen soil and patches of ice"
 author: 24Chrome
+date: 2025-02-06T18:29:57+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/biomes/autumnal_tundra.webp
 keywords: [autumnal, tundra, biome, cold]
 ---

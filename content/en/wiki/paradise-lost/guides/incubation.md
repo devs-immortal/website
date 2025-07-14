@@ -2,6 +2,8 @@
 title: "Incubation"
 summary: "Information on how moa eggs are incubated and hatched"
 author: 24Chrome
+date: 2025-02-07T22:28:30+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/guides/incubation.webp
 keywords: [moa, incubation, guide, egg, incubator, nest]
 weight: 2

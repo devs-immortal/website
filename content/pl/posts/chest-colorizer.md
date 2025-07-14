@@ -2,7 +2,7 @@
 title: "Chest Colorizer"
 summary: "Koloruj swoje skrzynie, aby łatwo rozróżnić różne typy przedmiotów w nich przechowywanych."
 author: "kalucky0"
-date: 2025-07-14T15:41:12+00:00
+date: 2025-07-14T16:57:36+00:00
 ---
 
 Koloruj swoje skrzynie i beczki, aby łatwo rozróżnić różne typy przedmiotów, które są przechowywane w nich. Dzięki tej modyfikacji możesz użyć różnych barwników, aby przypisać konkretny kolor do skrzyni, co ułatwia identyfikację zawartości jednym rzutem oka. Działa na wszystkich serwerach!

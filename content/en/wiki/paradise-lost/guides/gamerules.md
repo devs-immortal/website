@@ -2,6 +2,8 @@
 title: "Gamerules"
 summary: "Details on configuring your Paradise Lost experience through new Gamerules"
 author: 24Chrome
+date: 2025-06-14T21:37:11+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/guides/gamerules.webp
 keywords: [gamerules, portal, commands]
 ---

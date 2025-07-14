@@ -2,6 +2,8 @@
 title: "Levitation Wand"
 summary: "A fun, but not especially useful tool for levitating blocks and mobs"
 author: 24Chrome
+date: 2025-06-14T17:14:50+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/items/levitation_wand.webp
 keywords: [item, tool, levitation, wand, levita, loot]
 ---

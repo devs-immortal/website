@@ -2,6 +2,8 @@
 title: "Totem of Levitation"
 summary: "A loot-only totem that will save you from falling into the Void or from a fatal fall"
 author: 24Chrome
+date: 2025-06-14T17:14:50+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 thumbnail: /wiki/paradise_lost/thumbnails/items/totem_of_levitation.webp
 keywords: [item, loot, relic, totem]
 ---

@@ -2,7 +2,8 @@
 title: "Chest Colorizer"
 summary: "Color-code your chests to easily distinguish between different types of items stored in them."
 author: "kalucky0"
-date: 2024-08-19T18:16:08+00:00
+date: 2024-08-19T19:01:31+00:00
+lastmod: 2025-07-14T16:02:54+00:00
 ---
 
 Color-code your chests and barrels to easily distinguish between different types of items stored in them. With this mod, you can use a variety of dyes to assign a specific color to a chest, making it easy to identify what's inside with just a quick glance. Works on all servers!
