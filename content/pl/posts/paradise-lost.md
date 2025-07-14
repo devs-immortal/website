@@ -14,8 +14,6 @@ Paradise Lost został zaprojektowany tak, aby płynnie wpisywać się w progresj
 
 ### Jak mogę dowiedzieć się więcej o modzie?
 
-Aby znaleźć odpowiedzi na często zadawane pytania, sprawdź **[FAQ](/pl/faq/)**!
-
 Aby odkryć to, co Paradise Lost ma do zaoferowania, sprawdź **[wiki](/pl/wiki/paradise-lost/)**!
 
 ### Jak mogę przyczynić się do rozwoju lub być na bieżąco z aktualizacjami?

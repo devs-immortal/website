@@ -16,8 +16,6 @@ Paradise Lost is designed to fit seamlessly with Vanilla progression and style, 
 
 ### How can I learn about the mod?
 
-To find answers about any frequently asked questions, check the **[FAQ](/faq/)**!
-
 To explore what Paradise Lost has to offer, check out the **[wiki](/wiki/paradise-lost/)**!
 
 ### How can I contribute or keep up to date on releases?
