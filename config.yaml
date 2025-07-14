@@ -25,7 +25,7 @@ params:
     - name: "Bluesky"
       url: "https://bsky.app/profile/immortaldevs.net"
     - name: "Discord"
-      url: "https://discord.gg/TvuNtNYEvr"
+      url: "https://discord.com/invite/TvuNtNYEvr"
 menu:
   main:
     - identifier: primeval-wiki
@@ -42,6 +42,16 @@ languages:
     contentDir: content/en
     languageName: English
     weight: 10
+  pl:
+    contentDir: content/pl
+    languageName: Polski
+    weight: 20
+    params:
+      description: Jesteśmy Immortal Devs. Naszym celem jest tworzenie starannie stworzonych doświadczeń, którymi można cieszyć się dziś i tysiące światów później.
+      homeInfoParams:
+        Title: Jesteśmy Immortal Devs ✨
+        Content: Zespół programistów, artystów i muzyków, który ma na celu tworzenie modów do Minecrafta o najwyższej jakości (a może kiedyś spróbujemy nawet swoich sił w tworzeniu gier). Możesz nas znać z jednych z lepszych modów, jakie oferuje Fabric, takich jak **Paradise Lost** - _ogromny mod z nowym wymiarem osadzonym w pełnych tajemnic niebiosach_, a także **Primeval** - _mod, który od zera stworzył wszystkie systemy rozgrywki Minecrafta, aby stworzyć rustykalny, "realistyczny" postęp w grze_.
+
 minify:
   minifyOutput: true
 
