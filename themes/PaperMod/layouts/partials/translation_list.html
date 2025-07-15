@@ -3,17 +3,16 @@
 {{- if or .Params.author site.Params.author (.Param "ShowReadingTime") (not .Date.IsZero) }}&nbsp;|&nbsp;{{- end -}}
 {{- end }}
 {{- i18n "translations" | default "Translations" }}:
-<ul class="i18n_list">
-    {{- range .Translations }}
-    <li>
-        <a href="{{ .Permalink }}">
-            {{- if (and site.Params.displayFullLangName (.Language.LanguageName)) }}
-            {{- .Language.LanguageName | emojify -}}
-            {{- else }}
-            {{- .Lang | title -}}
-            {{- end -}}
-        </a>
-    </li>
-    {{- end }}
-</ul>
+<div class="i18n_dropdown">
+    <select class="i18n_select" onchange="window.location.href=this.value">
+        <option value="{{ .Permalink }}">
+            {{- .Language.LanguageName -}}
+        </option>
+        {{- range .Translations }}
+        <option value="{{ .Permalink }}">
+            {{- .Language.LanguageName -}}
+        </option>
+        {{- end }}
+    </select>
+</div>
 {{- end -}}
