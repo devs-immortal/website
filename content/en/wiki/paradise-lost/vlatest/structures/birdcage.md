@@ -31,28 +31,30 @@ Birdcages are populated with trial-spawned [Envoys](/wiki/paradise-lost/vlatest/
 ### Trial Loot
 Birdcage Trial Spawners can drop the following:
 * **Food**
-  * **1-3** Amadrys Bread (common)
-  * **4-7** Amadrys Bushels (common)
-  * **1-2** Amadrys Bundles (uncommon)
-  * **1-4** Glazed Amadrys Bread (uncommon)
+  * **1-12** Amadrys Bread (common)
+  * **4-28** Amadrys Bushels (common)
+  * **1-8** Amadrys Bundles (uncommon)
+  * **1-4** Amadrys Noodle Soup (uncommon)
+  * **1-16** Glazed Amadrys Bread (rare)
+
 * **Utility**
-  * **4-16** Cherine Torches (common)
-  * **1-4** Nitra Bunches (common)
-  * **1-4** Blue Clouds (uncommon)
-  * **3-8** Nitra Bulbs (uncommon)
-  * **1** Flaxweave Cushion (rare)
-  * **1** Nitra Seed (rare)
+  * **4-32** Cherine Torches (common)
+  * **2-12** Blue Clouds (uncommon)
+  * **1-8** Nitra Bunches (uncommon)
+  * **3-16** Nitra Bulbs (uncommon)
+  * **1-2** Flaxweave Cushion (rare)
+  * **1-2** Nitra Seed (rare)
 * **Relics**
   * **1** Totem of Levitation (common)
   * **1-2** Levita Beads (common)
-  * **1-2** Levitator (uncommon)
+  * **1** Levitator (uncommon)
   * **1** Levitation Wand (rare)
 
 ### Tomb Loot
 Birdcage Tombs can be looted and may contain the following:
-* **1-12** Bones (common)
-* **1-8** Flax Thread (common)
-* **1-6** Bloomed Calcite (common)
+* **1-20** Bones (common)
+* **1-10** Flax Thread (common)
+* **1-10** Bloomed Calcite (common)
 * **1-4** Pink Sporecaps (uncommon)
 * **1-6** Flaxweave (rare)
 * **1-2** Totems of Levitation (rare)

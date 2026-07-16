@@ -1,6 +1,6 @@
 ---
 title: "Redstone Levitator"
-summary: "A new rail that levitates Minecarts that pass over it to allow for floating Minecart travel"
+summary: "A new block that, when activate with redstone, levitates itself and passengers"
 author: 24Chrome
 date: 2024-11-05T23:41:37+00:00
 lastmod: 2025-07-14T16:02:54+00:00
@@ -19,4 +19,4 @@ When powered, Redstone Levitators will float upwards until they encounter a ceil
 **[Golden Clouds](/wiki/paradise-lost/vlatest/blocks/clouds/)** are especially useful for returning a Redstone Levitator back down to its starting position.
 
 ## Obtaining
-Redstone Levitators are quite expensive, each requiring 3 Levita Beads with 2 Redstone and 4 Heliolith Bricks, however for a simple elevator 1 Redstone Levitator is usually sufficient.
+Redstone Levitators are quite expensive, each requiring 3 Levita Beads with 2 Redstone and 4 Floestone Bricks, however for a simple elevator 1 Redstone Levitator is usually sufficient.

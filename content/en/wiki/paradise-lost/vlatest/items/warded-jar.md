@@ -1,6 +1,6 @@
 ---
 title: "Warded Jar"
-summary: "A fun, but not especially useful tool for levitating blocks and mobs"
+summary: "An item designed to encapsulate the slipperiest of creatures"
 author: 24Chrome
 date: 2025-06-14T17:14:50+00:00
 lastmod: 2025-07-14T16:02:54+00:00
@@ -17,6 +17,5 @@ Warded Jars are utility items that can be used to pick up and transport Allays a
 Allays become much easier to transport and move to enclosed spaces where they can be used, and **[Quints](/wiki/paradise-lost/vlatest/mobs/quint/)** can be moved to intentionally enlighten **[Calcified Sentinels](/wiki/paradise-lost/vlatest/mobs/calcified-sentinel/)** or **[Envoys](/wiki/paradise-lost/vlatest/mobs/envoy/)** without hassle.
 
 ## Obtaining
-A Levitation Wand is crafted with 2 sticks and 1 Levita Bead which can be obtained by mining Levita ore rarely found in all Paradise biomes.
+A Warded Jar is craftable with six blocks of Tinted Glass, which are crafted using amethysts and glass.
 
-Levitation Wands are rarely dropped as loot as rewards from the Trial Spawners in **[Birdcage](/wiki/paradise-lost/vlatest/structures/birdcage/)** structures.

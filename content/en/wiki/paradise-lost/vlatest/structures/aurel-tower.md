@@ -26,9 +26,9 @@ Aurel Towers have no inhabitants.
 
 ## Loot
 Aurel Towers have one chest at the top that *can* contain the following:
-* **1-3** String (common)
-* **1-10** Sticks (common)
-* **1-5** Cherine Torches (common)
+* **1-9** String (common)
+* **1-30** Sticks (common)
+* **1-15** Cherine Torches (common)
 * **1-2** Nitra Seeds (common)
 * **1-5** Blackcurrants (uncommon)
 * **1-3** Amadrys Bushels (uncommon)
@@ -36,4 +36,5 @@ Aurel Towers have one chest at the top that *can* contain the following:
 * **1** Olvite Spyglass (uncommon)
 * **1** Saddle (uncommon)
 * **1** Aurel Bucket (rare)
+* **1** Aurel Water Bucket (rare)
 * **1** Vault Explorer Map (rare)

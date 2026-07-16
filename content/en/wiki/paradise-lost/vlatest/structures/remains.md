@@ -25,13 +25,14 @@ Birdcages can spawn in the following biomes:
 
 ### Archeology
 Brushing **Suspicious Paradise Dirt** will drop one of the following:
-* Calcite Block
-* Calcite Flower Pot
-* Sol Pottery Sherd
-* Coo Pottery Sherd
-* Circlet of Knowledge
-* Stone Pickaxe
-* Stone Shovel
+* Calcite Block (common)
+* Sol Pottery Sherd (common)
+* Coo Pottery Sherd (common)
+* Cherine Shard (common)
+* Circlet of Knowledge (common)
+* Stone Pickaxe (common)
+* Calcite Flower Pot (uncommon)
+* Stone Shovel (uncommon)
 
 ### Decorated Pot Contents
 Breaking any [Calcite Decorated Pots](/wiki/paradise-lost/vlatest/blocks/calcite-pottery/) found in this structure can drop:
